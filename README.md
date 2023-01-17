@@ -4,6 +4,6 @@
 
 osu!more is an not official project to community
 
-Free banner, languages, ect.
+Free banner, languages, configurations, ect.
 
 More ideas later
