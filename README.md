@@ -2,8 +2,10 @@
 
 ## What is that
 
-osu!more is an not official project to community
+```osu-more``` est une repo' GitHub crée par MeuhMeuh62, elle consiste à créer du contenu pour la communauté.
 
-Free banner, languages, configurations, ect.
+Bien qu'elle contienne du contenu loufoque, elle compte bientôt s'étendre vers de nouveaux horizons bien que sa simple utilisation habituelle !
 
-More ideas later
+Envoyez vos retours à MeuhMeuh62#7880 sur Discord pour aider à évoluer ce projet !
+
+Plus d'idées, plus tard...
