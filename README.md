@@ -1,6 +1,6 @@
 # **osu!more**
 
-## What is that
+## Qu'est que c'est ?
 
 ```osu-more``` est une repo' GitHub crée par MeuhMeuh62, elle consiste à créer du contenu pour la communauté.
 
@@ -10,6 +10,7 @@ Envoyez vos retours à ```meuhmeuh62``` sur Discord pour aider à évoluer ce pr
 
 Plus d'idées plus tard...
 
+## What is that ?
 
 ```osu-more``` is a GitHub repo make by MeuhMeuh62, she consist to add content to osu! community.
 
