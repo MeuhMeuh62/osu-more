@@ -16,6 +16,6 @@ Plus d'idées plus tard...
 
 Although it contains crazy content, she will extand to other ways !
 
-Send your comments to ```meuhmeuh62``` on Discord for help to progress at this project !
+Send your feedback to ```meuhmeuh62``` on Discord for help to progress at this project !
 
 More ideas later...
